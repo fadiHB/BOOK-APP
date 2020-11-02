@@ -21,12 +21,69 @@
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 
 
-Number and name of feature: ________________________________
+Number and name of feature: basic server
 
-Estimate of time needed to complete: 8 h
+Estimate of time needed to complete: 2 h
 
-Start time: _____
+Start time: 2
 
-Finish time: _____
+Finish time: 3
 
-Actual time needed to complete: 16 h
+Actual time needed to complete: 1 h
+
+------------------------------------------------
+
+Number and name of feature: google books API
+
+Estimate of time needed to complete:1.5
+
+Start time: 3
+
+Finish time: 4.5
+
+Actual time needed to complete: 1.5 h
+--------------------------------------------
+
+Number and name of feature: browse the search results.
+
+
+Estimate of time needed to complete: 2
+
+Start time: 4.5
+
+Finish time: 7.5
+
+Actual time needed to complete: 3
+---------------------------------------------------------
+
+Number and name of feature: view any error messages
+
+Estimate of time needed to complete: 0..25 h
+
+Start time: 7.5
+
+Finish time: 7.75
+
+Actual time needed to complete: 0.25 h
+------------------------------------------------------------
+
+Number and name of feature: simple, clean looking UI 
+
+Estimate of time needed to complete: 1h
+
+Start time: 9
+
+Finish time: 10
+
+Actual time needed to complete: 1 h
+-----------------------------------------------------------
+
+Number and name of feature: home page
+
+Estimate of time needed to complete: 0.5 h
+
+Start time: 10
+
+Finish time: 10.5
+
+Actual time needed to complete: 0.5 h

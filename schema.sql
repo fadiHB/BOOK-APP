@@ -1,4 +1,6 @@
+
 DROP TABLE IF EXISTS books;
+
 CREATE TABLE books (
   id SERIAL PRIMARY KEY,
   img VARCHAR(255),
